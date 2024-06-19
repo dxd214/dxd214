@@ -24,7 +24,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![iOS](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=ios)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
